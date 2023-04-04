@@ -16,7 +16,7 @@
  
  __Frontent based on html, css.__
   
-  ![error check your internet[]()](https://user-images.githubusercontent.com/70976999/229827657-a309b771-53fb-4d4d-b0bc-c5d3622575d4.png)
+  ![error check your internet[]()](https://user-images.githubusercontent.com/70976999/229827856-3a61748b-287d-43e5-b74f-ec7c355f9c52.png)
   
   
 
