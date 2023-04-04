@@ -11,13 +11,12 @@
   * [Directory Tree](#directory-tree)
   * [Libraries](#libraries)
   
-  ## Demo
-  Deployment Link. https://wafer-fault-detection-mlops.herokuapp.com/ .
+
   
  
  __Frontent based on html, css.__
   
-  ![error check your internet](https://github.com/IamVicky90/END-TO-END-Wafer-Machiine-Learning-Project-With-MLOPS/blob/main/images/Front.PNG)
+  ![error check your internet[]()](https://user-images.githubusercontent.com/70976999/229827657-a309b771-53fb-4d4d-b0bc-c5d3622575d4.png)
   
   
 
